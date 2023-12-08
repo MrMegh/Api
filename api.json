@@ -1,47 +1,113 @@
 {
-    "latitude": 23.125,
-    "longitude": 80,
-    "generationtime_ms": 0.22900104522705078,
-    "utc_offset_seconds": 19800,
-    "timezone": "Asia/Kolkata",
-    "timezone_abbreviation": "IST",
-    "elevation": 412,
-    "current_units": {
-        "time": "iso8601",
-        "interval": "seconds",
-        "temperature_2m": "°C",
-        "relative_humidity_2m": "%",
-        "apparent_temperature": "°C",
-        "is_day": "",
-        "precipitation": "inch",
-        "rain": "inch",
-        "showers": "inch",
-        "snowfall": "inch",
-        "weather_code": "wmo code",
-        "cloud_cover": "%",
-        "pressure_msl": "hPa",
-        "surface_pressure": "hPa",
-        "wind_speed_10m": "km/h",
-        "wind_direction_10m": "°",
-        "wind_gusts_10m": "km/h"
+  "students": [
+    {
+      "name": "Aarav Sharma",
+      "class": "10A",
+      "days_present": 45,
+      "roll_no": "A1001",
+      "address": "123 Main Street, City",
+      "phone_number": "+91 9876543210",
+      "age": 15,
+      "profile_icon_url": "http://fakeurl.com/profile1.jpg"
     },
-    "current": {
-        "time": "2023-12-04T11:30",
-        "interval": 900,
-        "temperature_2m": 26.6,
-        "relative_humidity_2m": 70,
-        "apparent_temperature": 31.4,
-        "is_day": 1,
-        "precipitation": 0,
-        "rain": 0,
-        "showers": 0,
-        "snowfall": 0,
-        "weather_code": 3,
-        "cloud_cover": 100,
-        "pressure_msl": 1014.8,
-        "surface_pressure": 968.5,
-        "wind_speed_10m": 1.8,
-        "wind_direction_10m": 90,
-        "wind_gusts_10m": 7.6
+    {
+      "name": "Aisha Patel",
+      "class": "9B",
+      "days_present": 42,
+      "roll_no": "B1025",
+      "address": "456 Oak Avenue, Town",
+      "phone_number": "+91 8765432101",
+      "age": 14,
+      "profile_icon_url": "http://fakeurl.com/profile2.jpg"
+    },
+    // ... (48 more students)
+    {
+      "name": "Zara Khan",
+      "class": "8B",
+      "days_present": 38,
+      "roll_no": "B2030",
+      "address": "789 Pine Lane, Village",
+      "phone_number": "+91 8765432109",
+      "age": 13,
+      "profile_icon_url": "http://fakeurl.com/profile50.jpg"
     }
+  ],
+  "teachers": [
+    {
+      "name": "Mrs. Mehta",
+      "class": "Mathematics",
+      "address": "789 Pine Lane, Village",
+      "phone_number": "+91 7654321098",
+      "teacher_reviews": ["Excellent teacher!", "Very patient with students."],
+      "profile_icon_url": "http://fakeurl.com/teacher1.jpg"
+    },
+    {
+      "name": "Mr. Singh",
+      "class": "Science",
+      "address": "567 Cedar Road, Suburb",
+      "phone_number": "+91 9876543201",
+      "teacher_reviews": ["Makes learning fun!", "Clear explanations."],
+      "profile_icon_url": "http://fakeurl.com/teacher2.jpg"
+    },
+    {
+      "name": "Mr. Kapoor",
+      "class": "History",
+      "address": "567 Cedar Road, Suburb",
+      "phone_number": "+91 9876543219",
+      "teacher_reviews": ["Great communicator!", "Passionate about the subject."],
+      "profile_icon_url": "http://fakeurl.com/teacher10.jpg"
+    }
+  ],
+  "reminders": [
+    {
+      "date": "2023-12-25",
+      "event": "Christmas Holiday",
+      "details": "No classes, enjoy your holiday!"
+    },
+    {
+      "date": "2023-11-05",
+      "event": "Diwali Break",
+      "details": "School closed for Diwali celebrations."
+    },
+    {
+      "date": "2024-04-01",
+      "event": "April Fools' Day",
+      "details": "Pranks are not allowed in school. Be responsible!"
+    },
+    {
+      "date": "2024-02-14",
+      "event": "Valentine's Day",
+      "details": "Spread love and kindness. No class assignments today!"
+    },
+    {
+      "date": "2024-09-03",
+      "event": "Labor Day",
+      "details": "School closed in observance of Labor Day."
+    },
+    {
+      "date": "2024-10-31",
+      "event": "Halloween",
+      "details": "Costumes are allowed, but no scary pranks in school!"
+    },
+    {
+      "date": "2024-07-04",
+      "event": "Independence Day",
+      "details": "Celebrate responsibly! School will be closed."
+    },
+    {
+      "date": "2024-06-01",
+      "event": "Summer Vacation Begins",
+      "details": "Enjoy your summer break. See you next academic year!"
+    },
+    {
+      "date": "2024-01-01",
+      "event": "New Year's Day",
+      "details": "Happy New Year! School closed for the day."
+    },
+    {
+      "date": "2024-05-13",
+      "event": "School Sports Day",
+      "details": "Participate enthusiastically in sports activities!"
+    },
+  ]
 }

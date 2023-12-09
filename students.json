@@ -1,0 +1,144 @@
+{
+    "students": [
+        {
+            "name": "Megh Badoniya",
+            "class": "11",
+            "section": "B",
+            "rollno": 34,
+            "phone": 9806645906
+        },
+        {
+            "name": "Riya Sharma",
+            "class": "11",
+            "section": "B",
+            "rollno": 35,
+            "phone": 9812345678
+        },
+        {
+            "name": "Aryan Singh",
+            "class": "11",
+            "section": "B",
+            "rollno": 36,
+            "phone": 9823456789
+        },
+        {
+            "name": "Sanya Kapoor",
+            "class": "11",
+            "section": "B",
+            "rollno": 37,
+            "phone": 9834567890
+        },
+        {
+            "name": "Karan Patel",
+            "class": "11",
+            "section": "B",
+            "rollno": 38,
+            "phone": 9845678901
+        },
+        {
+            "name": "Ishaan Verma",
+            "class": "11",
+            "section": "B",
+            "rollno": 39,
+            "phone": 9856789012
+        },
+        {
+            "name": "Neha Gupta",
+            "class": "11",
+            "section": "B",
+            "rollno": 40,
+            "phone": 9867890123
+        },
+        {
+            "name": "Arjun Kapoor",
+            "class": "11",
+            "section": "B",
+            "rollno": 41,
+            "phone": 9878901234
+        },
+        {
+            "name": "Shreya Mishra",
+            "class": "11",
+            "section": "B",
+            "rollno": 42,
+            "phone": 9889012345
+        },
+        {
+            "name": "Rajat Agarwal",
+            "class": "11",
+            "section": "B",
+            "rollno": 43,
+            "phone": 9890123456
+        },
+        {
+            "name": "Tanvi Reddy",
+            "class": "11",
+            "section": "B",
+            "rollno": 44,
+            "phone": 9901234567
+        },
+        {
+            "name": "Amit Kumar",
+            "class": "11",
+            "section": "B",
+            "rollno": 45,
+            "phone": 9912345678
+        },
+        {
+            "name": "Simran Kaur",
+            "class": "11",
+            "section": "B",
+            "rollno": 46,
+            "phone": 9923456789
+        },
+        {
+            "name": "Vikas Yadav",
+            "class": "11",
+            "section": "B",
+            "rollno": 47,
+            "phone": 9934567890
+        },
+        {
+            "name": "Ritika Singh",
+            "class": "11",
+            "section": "B",
+            "rollno": 48,
+            "phone": 9945678901
+        },
+        {
+            "name": "Sagarika Das",
+            "class": "11",
+            "section": "B",
+            "rollno": 49,
+            "phone": 9956789012
+        },
+        {
+            "name": "Vivek Sharma",
+            "class": "11",
+            "section": "B",
+            "rollno": 50,
+            "phone": 9967890123
+        },
+        {
+            "name": "Pooja Patel",
+            "class": "11",
+            "section": "B",
+            "rollno": 51,
+            "phone": 9978901234
+        },
+        {
+            "name": "Amita Roy",
+            "class": "11",
+            "section": "B",
+            "rollno": 52,
+            "phone": 9989012345
+        },
+        {
+            "name": "Rahul Kumar",
+            "class": "11",
+            "section": "B",
+            "rollno": 53,
+            "phone": 9990123456
+        }
+    ]
+}
